@@ -2,8 +2,9 @@
   "name": "housebird-games",
   "displayName": "Housebird Games Theme",
   "description": "A theme based on the color palette of Housebird Games.",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "publisher": "HousebirdGames",
+  "repository": "https://github.com/HousebirdGames/Housebird-Games-Theme-for-Visual-Studio-Code.git",
   "engines": {
     "vscode": "^1.80.2"
   },
