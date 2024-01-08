@@ -1,0 +1,18 @@
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -scope currentuser
+
+Generating the base theme
+npm install -g yo generator-code
+yo code
+
+publishing
+npm install -g vsce
+vsce login PUBLISHER
+
+Package creation:
+vsce package
+
+Publish the package:
+vsce publish
+vsce publish patch/minor/major
+
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Undefined

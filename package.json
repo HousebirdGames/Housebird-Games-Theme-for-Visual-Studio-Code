@@ -1,0 +1,42 @@
+{
+  "name": "housebird-games",
+  "displayName": "Housebird Games Theme",
+  "description": "A theme based on the color palette of Housebird Games.",
+  "version": "1.0.16",
+  "publisher": "HousebirdGames",
+  "repository": "https://github.com/HousebirdGames/Housebird-Games-Theme-for-Visual-Studio-Code.git",
+  "engines": {
+    "vscode": "^1.80.2"
+  },
+  "icon": "HousebirdGamesIcon256x256.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "color",
+    "housebird",
+    "games",
+    "unity",
+    "c#",
+    "csharp",
+    "javascript",
+    "html",
+    "css",
+    "js",
+    "friendly",
+    "friendly colors",
+    "expressive",
+    "gaming"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Housebird Games Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Housebird Games-color-theme.json"
+      }
+    ]
+  }
+}
