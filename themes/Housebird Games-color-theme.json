@@ -119,7 +119,7 @@
 		"minimapSlider.activeBackground": "#58a4e36b",
 		"minimapSlider.background": "#58a4e323",
 		"minimapSlider.hoverBackground": "#58a4e33f",
-		"notificationLink.foreground": "#242A3A",
+		"notificationLink.foreground": "#ffffff",
 		"notifications.background": "#1c2027",
 		"notifications.foreground": "#A0A0A0",
 		"panel.background": "#1c2027",
