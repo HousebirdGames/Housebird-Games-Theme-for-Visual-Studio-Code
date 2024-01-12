@@ -2,9 +2,9 @@
 
 All notable changes to the "housebird-games" extension will be documented in this file.
 
-## 1.0.13 to 1.0.15
+## 1.0.13 to 1.0.18
 
-- Changed some colors for improved visibility of file and text selection
+- Updated certain colors for improved visibility of file and text selection, overviews and for git elements
 
 ## 1.0.12
 
