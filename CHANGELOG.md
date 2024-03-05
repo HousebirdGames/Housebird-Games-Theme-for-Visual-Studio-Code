@@ -1,8 +1,8 @@
 # Change Log
 
-All notable changes to the "housebird-games" extension will be documented in this file.
+All notable changes to the Housebird Games Theme will be documented in this file.
 
-## 1.0.21
+## 1.0.21 to 1.0.23
 
 - Improved visibility for settings
 
