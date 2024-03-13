@@ -2,7 +2,7 @@
 
 All notable changes to the Housebird Games Theme will be documented in this file.
 
-## 1.0.21 to 1.0.23
+## 1.0.21 to 1.0.24
 
 - Improved visibility for settings
 
